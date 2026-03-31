@@ -29,4 +29,4 @@ Klasifikasi Password: Lemah / Sedang / Kuat
 
 
 # Cara Jalankan
-Buka file .ipynb di Google Colab
+Buka AI_Kelompok_12.ipynb di Google Colab / Menggunakan ai_kelompok_12.py
